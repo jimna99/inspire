@@ -1,0 +1,18 @@
+{
+    "name": "fhsinchy/inspire",
+    "description": "Package de citations",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jiji",
+            "email": "jimnakongo14@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
